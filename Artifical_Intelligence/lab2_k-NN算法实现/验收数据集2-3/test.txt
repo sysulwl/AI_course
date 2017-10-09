@@ -1,0 +1,5 @@
+documentID emotion words
+1 2 ? jump suicide death 
+2 3 ? sixty old fireground save misfortune death 
+3 4 ? man jump suicide 
+4 5 ? man old after suicide error win 

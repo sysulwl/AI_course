@@ -1,0 +1,7 @@
+documentID emotion words 
+1 1 sad fireman rush fireground deliverance boy
+2 2 joy servant trouble cancer maintain guard
+3 3 fear fireman repeatedly rush fireground save misfortune death
+4 2 joy old win march free cataract operation
+5 1 sad dolphin error swallow volleyball after operation win fetch
+6 3 fear sixty old jump suicide death
